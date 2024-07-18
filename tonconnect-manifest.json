@@ -1,5 +1,7 @@
 {
-  "url": "https://nft.woolyswap.com",
+  "url": "https://ton-connect.github.io/demo-dapp-with-react-ui/",
   "name": "WoolySwap",
-   "iconUrl": "https://i.ibb.co/HH9q7Q2/wooly.png",
+  "iconUrl": "https://i.ibb.co/HH9q7Q2/wooly.png"
+  "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
+  "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
 }
